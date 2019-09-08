@@ -220,7 +220,7 @@
           </div>
           <div class="col-lg-4   col-sm-12">
             <img alt="image" class="img-fluid rounded time" src="<?= base_url(); ?>public/images/time/shantal1.jpg">
-            <h3 class="pt-1"><a href="http://hospedagem.ifspguarulhos.edu.br/~gu1800078/a/" target="_blank">Shantal de Morais</a></h3>
+            <h3 class="pt-1"><a href="http://hospedagem.ifspguarulhos.edu.br/~gu1800108/a/" target="_blank">Shantal de Morais</a></h3>
             <p class="text-danger">Diretora Executiva</p>
           </div>
           <div class="col-lg-4 col-sm-12">
